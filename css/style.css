@@ -1,0 +1,26 @@
+/* override bulma color */
+a {
+  color: #3273DC;
+}
+
+.flex-center {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-bottom {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.upperline {
+  font-size: 6em;
+}
+
+.bottomline {
+  font-size: 4em;
+}
