@@ -24,3 +24,14 @@ a {
 .bottomline {
   font-size: 4em;
 }
+
+/* responsiveness */
+@media screen and (max-width: 768px) {
+  .upperline {
+    font-size: 2.25em;
+  }
+
+  .width-mobile {
+    width: 80%;
+  }
+}
