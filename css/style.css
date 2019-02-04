@@ -4,6 +4,11 @@
   font-family: 'Rubik', sans-serif;
 }
 
+/* hide scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
+
 /* override bulma color */
 body {
   background-color: #2E2E30;
